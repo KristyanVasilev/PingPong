@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingPong", "PingPong\PingPong.csproj", "{36BB2071-620F-4921-A3F9-DACE492C106F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinPongMultyPlayer", "proba\PinPongMultyPlayer.csproj", "{CD7F1894-6F39-417D-83F0-12CA805D4DD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36BB2071-620F-4921-A3F9-DACE492C106F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36BB2071-620F-4921-A3F9-DACE492C106F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36BB2071-620F-4921-A3F9-DACE492C106F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36BB2071-620F-4921-A3F9-DACE492C106F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD7F1894-6F39-417D-83F0-12CA805D4DD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD7F1894-6F39-417D-83F0-12CA805D4DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD7F1894-6F39-417D-83F0-12CA805D4DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD7F1894-6F39-417D-83F0-12CA805D4DD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A4F77CA-2507-4400-A11D-EA64BC4A9D66}
+	EndGlobalSection
+EndGlobal
